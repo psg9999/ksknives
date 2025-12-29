@@ -1,0 +1,26 @@
+[
+  {
+    "id": 1,
+    "name": "Field Hunter — 4.5\"",
+    "short": "Lightweight drop-point for outdoors and daily use.",
+    "description": "A versatile 4.5\" drop-point blade in 1095 high-carbon steel with a stabilized walnut handle. Heat treated and hand-finished for a great edge out of the box.",
+    "price": 149,
+    "image": "/assets/knife1.svg"
+  },
+  {
+    "id": 2,
+    "name": "Chef's Companion — 8\"",
+    "short": "Balanced kitchen knife with thin, precise edge.",
+    "description": "An 8\" chef's blade in stainless VG-10, full tang with a pakkawood handle. Great for prep and daily kitchen work.",
+    "price": 199,
+    "image": "/assets/knife2.svg"
+  },
+  {
+    "id": 3,
+    "name": "Mini EDC — 3\"",
+    "short": "Compact everyday carry with a modern profile.",
+    "description": "A small 3\" EDC blade forged for utility. Slim, lightweight, and easy to carry.",
+    "price": 89,
+    "image": "/assets/knife3.svg"
+  }
+]
